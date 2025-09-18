@@ -23,6 +23,7 @@
     "deploy:ml": "cd ml_backend && python app.py",
     "test:ml": "curl -f http://localhost:5000/api/health",
     "test:deployment": "node scripts/test-deployment.js",
+    "test:railway": "node scripts/test-railway-integration.js",
     "test:all": "npm run test:ml && npm run test:deployment && npm run build"
   },
   "dependencies": {
