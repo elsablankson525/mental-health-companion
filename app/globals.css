@@ -1,0 +1,321 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Mental Health Theme - Calming and Supportive Colors */
+  --background: oklch(0.99 0.01 240); /* Soft blue-white background */
+  --foreground: oklch(0.25 0.02 240); /* Deep blue-gray text */
+  --card: oklch(0.98 0.02 240); /* Soft card background with subtle blue tint */
+  --card-foreground: oklch(0.25 0.02 240); /* Deep blue-gray card text */
+  --popover: oklch(0.99 0.01 240); /* Soft popover background */
+  --popover-foreground: oklch(0.25 0.02 240); /* Deep blue-gray popover text */
+  --primary: oklch(0.6 0.12 200); /* Calming teal-blue #0891b2 */
+  --primary-foreground: oklch(0.99 0.01 240); /* Soft text on primary */
+  --secondary: oklch(0.85 0.08 160); /* Gentle mint green #6ee7b7 */
+  --secondary-foreground: oklch(0.25 0.02 240); /* Deep text on secondary */
+  --muted: oklch(0.96 0.02 240); /* Soft muted background */
+  --muted-foreground: oklch(0.45 0.02 240); /* Medium blue-gray muted text */
+  --accent: oklch(0.8 0.1 140); /* Soft lavender accent */
+  --accent-foreground: oklch(0.25 0.02 240); /* Deep text on accent */
+  --destructive: oklch(0.65 0.15 15); /* Warm red for crisis support */
+  --destructive-foreground: oklch(0.99 0.01 240); /* Soft text on destructive */
+  --border: oklch(0.9 0.02 240); /* Soft blue-gray borders */
+  --input: oklch(0.99 0.01 240); /* Soft input background */
+  --ring: oklch(0.6 0.12 200); /* Teal focus ring */
+  --chart-1: oklch(0.7 0.12 200); /* Calming blue for mood charts */
+  --chart-2: oklch(0.75 0.1 160); /* Gentle green for mood charts */
+  --chart-3: oklch(0.8 0.12 80); /* Soft yellow for mood charts */
+  --chart-4: oklch(0.7 0.12 30); /* Warm orange for mood charts */
+  --chart-5: oklch(0.65 0.15 280); /* Soft purple for mood charts */
+  --radius: 0.75rem; /* More rounded corners for softer feel */
+  --sidebar: oklch(0.97 0.02 240); /* Soft sidebar */
+  --sidebar-foreground: oklch(0.25 0.02 240); /* Deep sidebar text */
+  --sidebar-primary: oklch(0.6 0.12 200); /* Teal sidebar primary */
+  --sidebar-primary-foreground: oklch(0.99 0.01 240); /* Soft sidebar primary text */
+  --sidebar-accent: oklch(0.85 0.08 160); /* Mint sidebar accent */
+  --sidebar-accent-foreground: oklch(0.25 0.02 240); /* Deep sidebar accent text */
+  --sidebar-border: oklch(0.9 0.02 240); /* Soft sidebar border */
+  --sidebar-ring: oklch(0.6 0.12 200); /* Teal sidebar focus ring */
+  
+  /* Mental Health Specific Colors */
+  --calm: oklch(0.8 0.08 180); /* Calming aqua */
+  --calm-foreground: oklch(0.25 0.02 240); /* Deep text on calm */
+  --peace: oklch(0.85 0.06 140); /* Peaceful lavender */
+  --peace-foreground: oklch(0.25 0.02 240); /* Deep text on peace */
+  --hope: oklch(0.75 0.1 120); /* Hopeful green */
+  --hope-foreground: oklch(0.25 0.02 240); /* Deep text on hope */
+  --warmth: oklch(0.8 0.12 40); /* Warm peach */
+  --warmth-foreground: oklch(0.25 0.02 240); /* Deep text on warmth */
+  --support: oklch(0.7 0.1 200); /* Supportive blue */
+  --support-foreground: oklch(0.25 0.02 240); /* Deep text on support */
+}
+
+.dark {
+  /* Dark Mode Mental Health Theme - Soothing and Calming */
+  --background: oklch(0.08 0.02 240); /* Deep blue-black background */
+  --foreground: oklch(0.92 0.02 240); /* Soft light text */
+  --card: oklch(0.12 0.02 240); /* Dark card with subtle blue tint */
+  --card-foreground: oklch(0.92 0.02 240); /* Soft light card text */
+  --popover: oklch(0.08 0.02 240); /* Deep popover background */
+  --popover-foreground: oklch(0.92 0.02 240); /* Soft light popover text */
+  --primary: oklch(0.65 0.12 200); /* Brighter teal for dark mode */
+  --primary-foreground: oklch(0.08 0.02 240); /* Dark text on primary */
+  --secondary: oklch(0.2 0.05 160); /* Darker mint for dark mode */
+  --secondary-foreground: oklch(0.92 0.02 240); /* Light text on secondary */
+  --muted: oklch(0.15 0.02 240); /* Dark muted background */
+  --muted-foreground: oklch(0.6 0.02 240); /* Medium light muted text */
+  --accent: oklch(0.2 0.05 140); /* Darker lavender accent */
+  --accent-foreground: oklch(0.92 0.02 240); /* Light text on accent */
+  --destructive: oklch(0.55 0.15 15); /* Softer red for dark mode */
+  --destructive-foreground: oklch(0.92 0.02 240); /* Light text on destructive */
+  --border: oklch(0.2 0.02 240); /* Dark blue-gray borders */
+  --input: oklch(0.15 0.02 240); /* Dark input background */
+  --ring: oklch(0.65 0.12 200); /* Brighter teal focus ring */
+  --chart-1: oklch(0.65 0.12 200); /* Adjusted blue for dark mode */
+  --chart-2: oklch(0.7 0.1 160); /* Adjusted green for dark mode */
+  --chart-3: oklch(0.75 0.12 80); /* Adjusted yellow for dark mode */
+  --chart-4: oklch(0.65 0.12 30); /* Adjusted orange for dark mode */
+  --chart-5: oklch(0.6 0.15 280); /* Adjusted purple for dark mode */
+  --sidebar: oklch(0.12 0.02 240); /* Dark sidebar */
+  --sidebar-foreground: oklch(0.92 0.02 240); /* Light sidebar text */
+  --sidebar-primary: oklch(0.65 0.12 200); /* Brighter teal sidebar primary */
+  --sidebar-primary-foreground: oklch(0.08 0.02 240); /* Dark sidebar primary text */
+  --sidebar-accent: oklch(0.2 0.05 160); /* Darker mint sidebar accent */
+  --sidebar-accent-foreground: oklch(0.92 0.02 240); /* Light sidebar accent text */
+  --sidebar-border: oklch(0.2 0.02 240); /* Dark sidebar border */
+  --sidebar-ring: oklch(0.65 0.12 200); /* Brighter teal sidebar focus ring */
+  
+  /* Dark Mode Mental Health Specific Colors */
+  --calm: oklch(0.25 0.05 180); /* Darker calming aqua */
+  --calm-foreground: oklch(0.92 0.02 240); /* Light text on calm */
+  --peace: oklch(0.2 0.05 140); /* Darker peaceful lavender */
+  --peace-foreground: oklch(0.92 0.02 240); /* Light text on peace */
+  --hope: oklch(0.3 0.08 120); /* Darker hopeful green */
+  --hope-foreground: oklch(0.92 0.02 240); /* Light text on hope */
+  --warmth: oklch(0.25 0.08 40); /* Darker warm peach */
+  --warmth-foreground: oklch(0.92 0.02 240); /* Light text on warmth */
+  --support: oklch(0.3 0.08 200); /* Darker supportive blue */
+  --support-foreground: oklch(0.92 0.02 240); /* Light text on support */
+}
+
+@theme {
+  --font-sans: var(--font-geist-sans);
+  --font-mono: var(--font-geist-mono);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-calm: var(--calm);
+  --color-calm-foreground: var(--calm-foreground);
+  --color-peace: var(--peace);
+  --color-peace-foreground: var(--peace-foreground);
+  --color-hope: var(--hope);
+  --color-hope-foreground: var(--hope-foreground);
+  --color-warmth: var(--warmth);
+  --color-warmth-foreground: var(--warmth-foreground);
+  --color-support: var(--support);
+  --color-support-foreground: var(--support-foreground);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+  
+  /* Mental Health Theme Typography */
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+    letter-spacing: -0.025em;
+  }
+  
+  /* Smooth scrolling for better UX */
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  /* Custom scrollbar for mental health theme */
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-muted/30;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-primary/30 rounded-full;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-primary/50;
+  }
+}
+
+/* Mental Health Specific Effects - No Animations */
+@layer utilities {
+  /* Gentle glow effect - static only */
+  .glow-soft {
+    box-shadow: 0 0 20px rgba(8, 145, 178, 0.1);
+  }
+  
+  .glow-calm {
+    box-shadow: 0 0 20px rgba(110, 231, 183, 0.1);
+  }
+  
+  .glow-peace {
+    box-shadow: 0 0 20px rgba(139, 92, 246, 0.1);
+  }
+  
+  /* Card Effects - No 3D or transitions */
+  .card-3d {
+    /* Static card styling only - placeholder for future styling */
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Mental Health Gradient Backgrounds */
+  .bg-gradient-calm {
+    background: linear-gradient(135deg, var(--calm) 0%, var(--peace) 100%);
+  }
+  
+  .bg-gradient-hope {
+    background: linear-gradient(135deg, var(--hope) 0%, var(--warmth) 100%);
+  }
+  
+  .bg-gradient-support {
+    background: linear-gradient(135deg, var(--support) 0%, var(--primary) 100%);
+  }
+  
+  /* Glass morphism effect */
+  .glass {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+  
+  .dark .glass {
+    background: rgba(0, 0, 0, 0.1);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Mental Health Button Variants - No transitions */
+  .btn-calm {
+    @apply bg-calm text-calm-foreground hover:bg-calm/90;
+  }
+  
+  .btn-peace {
+    @apply bg-peace text-peace-foreground hover:bg-peace/90;
+  }
+  
+  .btn-hope {
+    @apply bg-hope text-hope-foreground hover:bg-hope/90;
+  }
+  
+  .btn-warmth {
+    @apply bg-warmth text-warmth-foreground hover:bg-warmth/90;
+  }
+  
+  .btn-support {
+    @apply bg-support text-support-foreground hover:bg-support/90;
+  }
+  
+  /* Crisis Support Button - No animations */
+  .btn-crisis {
+    @apply bg-destructive text-destructive-foreground hover:bg-destructive/90;
+  }
+  
+  /* Mood Indicator Colors */
+  .mood-excellent { @apply bg-chart-2 text-white; }
+  .mood-good { @apply bg-chart-3 text-white; }
+  .mood-neutral { @apply bg-chart-1 text-white; }
+  .mood-poor { @apply bg-chart-4 text-white; }
+  .mood-terrible { @apply bg-chart-5 text-white; }
+  
+  /* Page States - No transitions */
+  .page-enter {
+    opacity: 1;
+  }
+  
+  .page-enter-active {
+    opacity: 1;
+  }
+  
+  .page-exit {
+    opacity: 1;
+  }
+  
+  .page-exit-active {
+    opacity: 1;
+  }
+  
+  /* Loading States - Static only */
+  .loading-shimmer {
+    background: rgba(255, 255, 255, 0.1);
+  }
+  
+  /* Focus States for Accessibility */
+  .focus-mental-health:focus {
+    @apply outline-none ring-2 ring-primary/50 ring-offset-2 ring-offset-background;
+  }
+  
+  /* Hover Effects - No transforms */
+  .hover-lift {
+    /* Static hover styling only - placeholder for future styling */
+    transition: none;
+  }
+  
+  .hover-lift:hover {
+    /* No transform effects - placeholder for future styling */
+    opacity: 0.9;
+  }
+  
+  /* Mental Health Progress Indicators */
+  .progress-calm {
+    background: linear-gradient(90deg, var(--calm), var(--peace));
+  }
+  
+  .progress-hope {
+    background: linear-gradient(90deg, var(--hope), var(--warmth));
+  }
+  
+  .progress-support {
+    background: linear-gradient(90deg, var(--support), var(--primary));
+  }
+}

@@ -1,0 +1,7277 @@
+{
+  "mood_entries": [
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 20,
+        "hour": 10,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was decent. Taking it one day at a time",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.1470100820522583,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.8225236965434854,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 21,
+        "hour": 8,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2016454049710844,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8352487099109068,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Excited",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 22,
+        "hour": 23,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was okay. Working through some feelings",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2256147830944104,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.21621472343318004,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 2,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 24,
+        "hour": 1,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling excited and tired. Taking care of myself",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.48880090405032117,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.792299089645739,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Sad",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 24,
+        "hour": 15,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Thinking about health",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.5408945754595487,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.524866472888672,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 25,
+        "hour": 21,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was average. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6725580048812052,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.18539618077415476,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 26,
+        "hour": 11,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.28519110027815864,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.028494596474460177,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 27,
+        "hour": 20,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.43073954034380313,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.28498156784467243,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 2,
+        "day": 28,
+        "hour": 14,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.41698884884982146,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.12213246226460328,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 1,
+        "hour": 21,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Having a average day. Thinking about future plans",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.5501578693913642,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.040101338000924414,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Excited",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 2,
+        "hour": 16,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a decent day. Work was productive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6557826883260325,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.8211171131979786,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 4,
+        "hour": 0,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a decent day. Spent time cooked dinner",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.08035790891880235,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.549232489266252,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 4,
+        "hour": 9,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling sad about relationships",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.43521760328657455,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.9746533568702129,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 5,
+        "hour": 17,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about family",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.42190988381880035,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.25729212594435646,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 6,
+        "hour": 16,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.57144927296486,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.8667926912974009,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Anxious",
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 7,
+        "hour": 23,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Struggling with loneliness today. Feeling angry",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.44093127880434757,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3876710865317916,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad",
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 8,
+        "hour": 21,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling anxious about family",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4797858783789438,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.8601575300828574,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 9,
+        "hour": 13,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was tough. Taking it one day at a time",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.6571349880704666,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.00849777773795557,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 10,
+        "hour": 22,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a fine day. Thinking about work",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.8348910534166855,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.26017362619593365,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 11,
+        "hour": 9,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Work was challenging",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4938199027860969,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.41474696163577984,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 12,
+        "hour": 9,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.22622978166105312,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.05870158831339889,
+        "medication_taken": true,
+        "therapy_session": true,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 13,
+        "hour": 12,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about family",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.5609452647218799,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7577407400654586,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 14,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6499463903853641,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.8502493644000141,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 15,
+        "hour": 15,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was decent. Taking it one day at a time",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.19390896292282012,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.6159047823064667,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 16,
+        "hour": 17,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was okay. Taking it one day at a time",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.792720592777149,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.14813094939314297,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Lonely",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 17,
+        "hour": 14,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Work was stressful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.6942249389889806,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.39502537262524384,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 18,
+        "hour": 16,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.7261369671006398,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8825454298684462,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 19,
+        "hour": 9,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2124031065657025,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8613474388906598,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 20,
+        "hour": 8,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was decent. Taking it one day at a time",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.16473018206912549,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8062331617352536,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Peaceful",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 21,
+        "hour": 19,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Work was challenging",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.3184309988425762,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7850251858034658,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 22,
+        "hour": 8,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling grateful about family",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.6205573539686896,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.4132474898094174,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 23,
+        "hour": 18,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling overwhelmed about relationships",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.5120820109310835,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.91203569066467,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Overwhelmed",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 24,
+        "hour": 20,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Work was stressful",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.15702274772276759,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.3746865374946262,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 25,
+        "hour": 22,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling sad about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.379153047080133,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.3484155791630459,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Overwhelmed",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 26,
+        "hour": 19,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling sad and sad. One day at a time",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.18090166122648643,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.45119995672276836,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 27,
+        "hour": 17,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.15185984175505418,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.004246902940822639,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 28,
+        "hour": 15,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.9215969565283526,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.18514039259719195,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 29,
+        "hour": 17,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling calm about family",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.3895821423141934,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7283823219013309,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 30,
+        "hour": 16,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was tough. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6644674138995199,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5962016262022483,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Grateful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 3,
+        "day": 31,
+        "hour": 17,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Great day! cooked dinner and feeling calm",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6956305192840442,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7330634269541448,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 1,
+        "hour": 15,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Spent time read a book",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.2650835159500998,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8090955835333465,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Happy",
+        "Grateful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 2,
+        "hour": 9,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling grateful today! Thinking about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.7705762039150996,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.48294828134500023,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 3,
+        "hour": 12,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling excited about health",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.2104870302138553,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.28501812329155396,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 4,
+        "hour": 18,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Work was productive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.3748100990236316,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5311836905107584,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 5,
+        "hour": 13,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling happy today! Thinking about family",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.3150915879083952,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.4503045001029261,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Sad",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 6,
+        "hour": 12,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Great day! cooked dinner and feeling excited",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.8782259393905902,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.5973870627939694,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 7,
+        "hour": 11,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a fine day. Work was challenging",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.3614889094386621,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.4922040794525311,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 8,
+        "hour": 10,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.8995803589314082,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6031775697166443,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 9,
+        "hour": 16,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.03777044771867988,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5977421134065867,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 10,
+        "hour": 21,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Work was stressful",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.3526884500171744,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.06523458914222668,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Excited",
+        "Sad",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 11,
+        "hour": 21,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.006352257505295222,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6996217636302159,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Excited",
+        "Overwhelmed",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 13,
+        "hour": 1,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling sad today! Work was challenging",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.8534994630060602,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.16206995153969028,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 13,
+        "hour": 20,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling calm about work",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.48542739255506884,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3532646341020166,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Grateful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 14,
+        "hour": 17,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling happy about family",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.8411996368507122,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.8143918362537326,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Lonely",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 16,
+        "hour": 1,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling lonely and anxious. Taking care of myself",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.3854441996877439,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.368279167688667,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Angry",
+        "Anxious",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 16,
+        "hour": 20,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious and angry. Trying to reach out for help",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.9237889335805926,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7739571507097156,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Sad",
+        "Anxious",
+        "Lonely"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 17,
+        "hour": 10,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling lonely and lonely. Trying to reach out for help",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.9169963352994059,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6070687262718569,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 18,
+        "hour": 13,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.8408078160892891,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5223033012327031,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 19,
+        "hour": 9,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6869607164393877,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.25081905972360474,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 2,
+      "emotions": [
+        "Overwhelmed",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 20,
+        "hour": 15,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling sad and overwhelmed. Trying to reach out for help",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.5655654646136659,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6324869553348286,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Calm",
+        "Peaceful",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 21,
+        "hour": 19,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about relationships",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.14836772219948968,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7088928313197211,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 22,
+        "hour": 11,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.5913034458753166,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5885816208761595,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 24,
+        "hour": 1,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was tough. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.6890032171264256,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.5690417445379437,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 24,
+        "hour": 21,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling happy about future plans",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.04382376461254833,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7351930793742967,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 25,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Taking it one day at a time",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.08392223142427369,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8572343309801864,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 27,
+        "hour": 1,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a decent day. Work was productive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.6056932025900179,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7584319734846635,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 27,
+        "hour": 16,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling happy about relationships",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.24378686715215103,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.9561075647433762,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Calm",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 28,
+        "hour": 20,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Work was productive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.893484551045168,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.15540932709946143,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 29,
+        "hour": 22,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a decent day. Work was stressful",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.4106756662736528,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.015467603405891706,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 4,
+        "day": 30,
+        "hour": 20,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling sad about relationships",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.9581427086929126,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.38262733744317745,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Calm",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 1,
+        "hour": 13,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Thinking about family",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.9683904495447386,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.18704031450664504,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 2,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a fine day. Spent time went for a walk",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.16628964528782275,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.14813956797331107,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Overwhelmed",
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 3,
+        "hour": 23,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Having a decent day. Work was stressful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.22066906782718787,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7983939589180911,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 4,
+        "hour": 8,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was tough. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4506270838399111,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7897045847962081,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Happy",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 5,
+        "hour": 10,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.8351018975681952,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6952856343760667,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Anxious",
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 6,
+        "hour": 18,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Spent time read a book",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.510868392971763,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8305622170384369,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 8,
+        "hour": 1,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Struggling with anxiety today. Feeling overwhelmed",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4552511885823719,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3978879323978268,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 8,
+        "hour": 22,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Taking it one day at a time",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.24950874208106322,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.40320356350703224,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 9,
+        "hour": 11,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Spent time worked on a project",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.8129146096191837,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.09605215190610705,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Overwhelmed",
+        "Sad",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 10,
+        "hour": 8,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "So grateful for small joys. Feeling excited!",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.0726023193703752,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.17962598712523292,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Sad",
+        "Excited",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 11,
+        "hour": 11,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling excited today! Work was stressful",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.562424640664607,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.7269525804261243,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 2,
+      "emotions": [
+        "Lonely",
+        "Sad",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 12,
+        "hour": 19,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed and lonely. Trying to reach out for help",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.836383379883997,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.16252708582391107,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Calm",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 13,
+        "hour": 8,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about future plans",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.007597521562370035,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.1783207640317096,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 2,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 14,
+        "hour": 8,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Struggling with loneliness today. Feeling overwhelmed",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.9215006307153054,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.4511335222518199,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 15,
+        "hour": 22,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling angry and tired. One day at a time",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.885765759297954,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3374643686262092,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 16,
+        "hour": 21,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about work",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2705632808177231,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.17078082858037957,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 17,
+        "hour": 11,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was tough. Working through some feelings",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.7446475025561664,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.2384830281977519,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Happy",
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 18,
+        "hour": 9,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "So grateful for a roof over my head. Feeling happy!",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.61048381118984,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.32481123542613277,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 19,
+        "hour": 23,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about health",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.4290299144679929,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.17339704914296916,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 20,
+        "hour": 9,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Thinking about family",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.759706268606248,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8705498094980167,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 21,
+        "hour": 14,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was average. Taking it one day at a time",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4916285487380502,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.0792037823424363,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 22,
+        "hour": 18,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.8347376910856111,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.9388549671710341,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 1,
+      "emotions": [
+        "Overwhelmed",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 23,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed and overwhelmed. Trying to reach out for help",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.8763144673496449,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5089190211479808,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 24,
+        "hour": 18,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling overwhelmed about future plans",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4954637792754495,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.9736012400886555,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 25,
+        "hour": 18,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was average. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.9340857518692882,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5275224625022481,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 2,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 26,
+        "hour": 22,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Struggling with stress today. Feeling overwhelmed",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.8847581013854582,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7785892313780954,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 27,
+        "hour": 9,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about relationships",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.21739626034183857,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.991444814828985,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 28,
+        "hour": 11,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.4573236697201103,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.2395807698261594,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 29,
+        "hour": 12,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Spent time cooked dinner",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.9798315148676939,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.9274756101206318,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 30,
+        "hour": 19,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.8066591101632213,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5760791598035271,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 5,
+        "day": 31,
+        "hour": 19,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was okay. Taking it one day at a time",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.34473940240868395,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.16972574904340276,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 1,
+        "hour": 13,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling peaceful about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2016290566053187,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7264090970512658,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 2,
+        "hour": 20,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.5148257646949174,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.4081542184606076,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 3,
+        "hour": 18,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling happy about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.28779523699620224,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.46823675349708227,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 4,
+        "hour": 8,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Great day! went for a walk and feeling overwhelmed",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.027973641491799595,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.8862062786292115,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 5,
+        "hour": 9,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Struggling with family issues today. Feeling overwhelmed",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.8738742938352088,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8198057035116708,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Angry",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 6,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.30920666469708646,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.881834174932246,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 7,
+        "hour": 10,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Having a tough day. Work was stressful",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4466686752195841,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.4887927139146653,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 8,
+        "hour": 16,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a fine day. Spent time cooked dinner",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.6375803275202908,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.18516477195176007,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 9,
+        "hour": 16,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Thinking about health",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.7199204383578625,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5967940339674911,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Happy",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 10,
+        "hour": 8,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Great day! read a book and feeling peaceful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.76525190438169,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.3552373598835953,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 11,
+        "hour": 15,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.7254002322268512,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7034104535477407,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 12,
+        "hour": 8,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was okay. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.2742884897276654,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5403094425317845,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 13,
+        "hour": 19,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a decent day. Work was stressful",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.519482893344405,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8715269690297616,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 14,
+        "hour": 9,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.9739872837186151,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7192957708486224,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 15,
+        "hour": 18,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a average day. Thinking about family",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.14893783705839658,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.4282118018742226,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Lonely",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 17,
+        "hour": 0,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Work was challenging",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.15264820096226606,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.13194488286745176,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": true
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 17,
+        "hour": 19,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.598682573757575,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6440087071012927,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 18,
+        "hour": 18,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Spent time cooked dinner",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.035053387823400395,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7802961349806841,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Angry",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 19,
+        "hour": 10,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Trying to stay positive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.2642702025324416,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.5847211046445733,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 20,
+        "hour": 13,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6897786973107701,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.684044003069297,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 21,
+        "hour": 11,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling peaceful about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.33749215760661333,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.303712233411499,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 23,
+        "hour": 1,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.6161916356700232,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5090730960891234,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 23,
+        "hour": 9,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.9377604609683396,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7757643568947621,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 24,
+        "hour": 17,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.9456055854514894,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.20613369760696132,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 26,
+        "hour": 0,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about work",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.28301297139626447,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.06480076039448879,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 26,
+        "hour": 15,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Work was productive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.7182340319684613,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.841908027529631,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Grateful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 27,
+        "hour": 11,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Great day! worked on a project and feeling grateful",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.5519538529961631,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.2959687451547287,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 28,
+        "hour": 23,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling happy today! Spent time went for a walk",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4479490214439825,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.46006126173661,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed",
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 29,
+        "hour": 16,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a tough day. Work was challenging",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.5520148198974787,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5397467148999089,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 6,
+        "day": 30,
+        "hour": 23,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Spent time cooked dinner",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4994352435502859,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.8340284795679674,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 1,
+        "hour": 23,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was decent. Taking it one day at a time",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6307363422986662,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.07953641466706263,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 2,
+        "hour": 22,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.7232952576281017,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.2620524937892472,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 3,
+        "hour": 9,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.7324621720952981,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.17025631759607407,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Peaceful",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 4,
+        "hour": 11,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Thinking about future plans",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.4658002396072247,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6391748097560972,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 5,
+        "hour": 8,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling peaceful about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.9613523475212814,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.7813419466442563,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 10,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 6,
+        "hour": 22,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "So grateful for my family. Feeling excited!",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.7608247961600433,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6440593849226809,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Grateful",
+        "Peaceful",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 7,
+        "hour": 20,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Great day! read a book and feeling happy",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6947207166419979,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.938161981045363,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 9,
+        "hour": 1,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Having a tough day. Work was stressful",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.2654245048395455,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.14457829299385772,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 9,
+        "hour": 18,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about relationships",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.58330141371201,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8608186598537532,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 10,
+        "hour": 23,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling sad about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.9793495846141939,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.24652273065869357,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 7,
+      "emotions": [
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 11,
+        "hour": 13,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Great day! went for a walk and feeling excited",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6428363797461448,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.687606486095341,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Anxious",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 12,
+        "hour": 8,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Struggling with family issues today. Feeling anxious",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.281270673149858,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.00033029086771929617,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 13,
+        "hour": 9,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a challenging day. Work was stressful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.4189884716548069,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.09308212368569146,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 14,
+        "hour": 9,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling happy about future plans",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4123267373336149,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.35575146182143036,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 15,
+        "hour": 15,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about family",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4064785401459451,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.03417446735551988,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 16,
+        "hour": 21,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Taking it one day at a time",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.5033940206543999,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.27098017691893106,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 17,
+        "hour": 8,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Struggling with family issues today. Feeling overwhelmed",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.10138064240329947,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.3445056510716624,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 18,
+        "hour": 17,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Spent time cooked dinner",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.00023772949379319286,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6416952755474999,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 19,
+        "hour": 13,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.5657737238841669,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7222539258475903,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 20,
+        "hour": 17,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling calm about future plans",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.7731851160112682,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.035638853557309114,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 21,
+        "hour": 13,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about future plans",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.14911471892823724,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7651802028318521,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Grateful",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 22,
+        "hour": 12,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Taking it one day at a time",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.8996197181378893,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.3284562639955947,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 23,
+        "hour": 23,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Today was tough. Taking it one day at a time",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.7440217904176335,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.09981843919141009,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Overwhelmed",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 24,
+        "hour": 9,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.6682562322901978,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3286937775267894,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Peaceful",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 25,
+        "hour": 17,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about work",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.13081035201112112,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.5613042337887578,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Happy",
+        "Confident"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 26,
+        "hour": 14,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling happy today! Thinking about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.6122436171972775,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.7513560397901119,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 27,
+        "hour": 20,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a okay day. Spent time read a book",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.4815998949902195,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.1426941013500983,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 29,
+        "hour": 0,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Working through some feelings",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.8810527967076547,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.10997713448782331,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 29,
+        "hour": 10,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Today was okay. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.8858888111137957,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.11520934601280475,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm",
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 30,
+        "hour": 22,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Thinking about family",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.15709732010365307,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.554046181617756,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 9,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 7,
+        "day": 31,
+        "hour": 16,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "So grateful for a roof over my head. Feeling overwhelmed!",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.31021854108737734,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.874967131375926,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Grateful",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 1,
+        "hour": 16,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Working through some feelings",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6527058127654408,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.12385676630264852,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 2,
+        "hour": 23,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was decent. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.23394542764054582,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.8959070722128437,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 3,
+        "hour": 21,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a okay day. Work was stressful",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6538819003899469,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.1861489041844414,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 4,
+        "hour": 8,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about family",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6955532556822509,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.49363462311184836,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Angry",
+        "Anxious",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 5,
+        "hour": 13,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about relationships",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.12022009210019513,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.9206446176577247,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 6,
+        "hour": 11,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Having a challenging day. Work was productive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.9554672505060443,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.45249803672623945,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 9,
+      "emotions": [
+        "Confident",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 7,
+        "hour": 12,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling grateful today! Thinking about relationships",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.2988922954041414,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.30790299199196924,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Overwhelmed",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 8,
+        "hour": 12,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.5523884050563553,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6372474124586286,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.5753281603592548,
+        "social_support": 0.4761984574568707
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 9,
+        "hour": 9,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6467084257956933,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.2161637063139632,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 11,
+        "hour": 1,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about relationships",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.9358575734227003,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.3011451571975078,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Overwhelmed",
+        "Anxious",
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 11,
+        "hour": 10,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.45794096427774456,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.018707131170466962,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Excited",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 12,
+        "hour": 16,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling excited today! Work was stressful",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.8689818286033845,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7253143302794907,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 1,
+      "emotions": [
+        "Overwhelmed",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 13,
+        "hour": 19,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Struggling with loneliness today. Feeling overwhelmed",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.46959256199612187,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.7546509241562156,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 14,
+        "hour": 20,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Work was stressful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.36540068157977945,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.9779773886212623,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 15,
+        "hour": 18,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about work",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6233090890148489,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.4495904288219992,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 10,
+      "emotions": [
+        "Sad",
+        "Overwhelmed",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 16,
+        "hour": 16,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Great day! worked on a project and feeling sad",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.8197483170564449,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.7490187324712885,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Sad",
+        "Calm",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 17,
+        "hour": 15,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling sad about future plans",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.5538346757251803,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6169110311909003,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 18,
+        "hour": 12,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Thinking about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.147287826938292,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.6605410480671955,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.757002147412588,
+        "social_support": 0.5228539916337971
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Sad",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 19,
+        "hour": 18,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Thinking about relationships",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.6740898346779451,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.6914249614393195,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 21,
+        "hour": 1,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was average. Trying to stay positive",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.24636059817980038,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.99857897193318,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 1,
+      "emotions": [
+        "Overwhelmed",
+        "Excited"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 21,
+        "hour": 21,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed and overwhelmed. Trying to reach out for help",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.4838389310178638,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.11763600842388289,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Calm",
+        "Grateful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 22,
+        "hour": 19,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling calm about family",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.15427044451992966,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.31504473812698364,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 24,
+        "hour": 0,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Feeling sad about work",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.40330191557703854,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.9568389760903032,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 3,
+      "emotions": [
+        "Overwhelmed"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 24,
+        "hour": 19,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Struggling with stress today. Feeling overwhelmed",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.03532935415475813,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6354823757770688,
+        "medication_taken": true,
+        "therapy_session": true,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful",
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 26,
+        "hour": 0,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling peaceful about work",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.4482845970000975,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.10621765497541069,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 26,
+        "hour": 22,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling anxious about future plans",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.6963476527816475,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.3054947624568638,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Anxious",
+        "Sad",
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 28,
+        "hour": 1,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was fine. Taking it one day at a time",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.29852411628585196,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.5481001684767683,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "26-35",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.6495227166107949,
+        "social_support": 0.46124069673265194
+      }
+    },
+    {
+      "mood": 4,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 29,
+        "hour": 1,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Having a okay day. Spent time worked on a project",
+      "context": {
+        "weather": "sunny",
+        "sleep_quality": 0.7173887901048289,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.9704604813094002,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "46-55",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.7586509406215842,
+        "social_support": 0.7705350516531528
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 29,
+        "hour": 14,
+        "day_of_week": 4,
+        "is_weekend": false
+      },
+      "note": "Feeling happy about health",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.7192611298343285,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.18944003762216477,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.587322999195029,
+        "social_support": 0.463813890878388
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 30,
+        "hour": 17,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Having a challenging day. Spent time read a book",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4042558874822818,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.6500728773631743,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.46367360445445793,
+        "social_support": 0.8325656830151582
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Confident"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 8,
+        "day": 31,
+        "hour": 23,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Great day! went for a walk and feeling confident",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.09890709790981156,
+        "exercise_today": true,
+        "social_interaction": true,
+        "work_stress": 0.192794692311817,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 1,
+        "hour": 15,
+        "day_of_week": 0,
+        "is_weekend": false
+      },
+      "note": "Having a average day. Work was stressful",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.6626398656460829,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.2759032772892863,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "65+",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5135862026552717,
+        "social_support": 0.47771714282424177
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Overwhelmed",
+        "Angry",
+        "Anxious"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 2,
+        "hour": 23,
+        "day_of_week": 1,
+        "is_weekend": false
+      },
+      "note": "Feeling overwhelmed about family",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.3007247107057811,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6922829048797081,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Angry"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 3,
+        "hour": 22,
+        "day_of_week": 2,
+        "is_weekend": false
+      },
+      "note": "Feeling angry about family",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.46600195311357895,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.005202290616473371,
+        "medication_taken": true,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "56-65",
+        "has_condition": true,
+        "condition": "ptsd",
+        "life_stress_level": 0.8661231323816374,
+        "social_support": 0.537875948825389
+      }
+    },
+    {
+      "mood": 6,
+      "emotions": [
+        "Happy"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 4,
+        "hour": 16,
+        "day_of_week": 3,
+        "is_weekend": false
+      },
+      "note": "Today was challenging. Trying to stay positive",
+      "context": {
+        "weather": "snowy",
+        "sleep_quality": 0.39570654669413574,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.8653443967471398,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 8,
+      "emotions": [
+        "Sad"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 6,
+        "hour": 1,
+        "day_of_week": 5,
+        "is_weekend": true
+      },
+      "note": "Feeling sad today! Thinking about family",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.43631460898314445,
+        "exercise_today": false,
+        "social_interaction": true,
+        "work_stress": 0.28259564183156793,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "36-45",
+        "has_condition": true,
+        "condition": "bipolar",
+        "life_stress_level": 0.43237507172783984,
+        "social_support": 0.5521329300192832
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Sad",
+        "Peaceful"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 7,
+        "hour": 0,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Today was fine. Trying to stay positive",
+      "context": {
+        "weather": "rainy",
+        "sleep_quality": 0.8469611157178752,
+        "exercise_today": false,
+        "social_interaction": false,
+        "work_stress": 0.6782656745517719,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    },
+    {
+      "mood": 5,
+      "emotions": [
+        "Calm"
+      ],
+      "date": {
+        "year": 2025,
+        "month": 9,
+        "day": 7,
+        "hour": 9,
+        "day_of_week": 6,
+        "is_weekend": true
+      },
+      "note": "Having a tough day. Thinking about health",
+      "context": {
+        "weather": "cloudy",
+        "sleep_quality": 0.4134547277717453,
+        "exercise_today": true,
+        "social_interaction": false,
+        "work_stress": 0.41596450425592746,
+        "medication_taken": false,
+        "therapy_session": false,
+        "crisis_thoughts": false
+      },
+      "profile": {
+        "age_group": "18-25",
+        "has_condition": false,
+        "condition": null,
+        "life_stress_level": 0.5326633765197349,
+        "social_support": 0.7832003029270547
+      }
+    }
+  ],
+  "journal_entries": [
+    {
+      "date": "2025-05-31T02:14:30.541073",
+      "content": "Work has been meaningful lately. I feel undervalued",
+      "topic": "work_stress",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-01T02:14:30.541073",
+      "content": "Today I completed a task and it made me feel peaceful. I learned something about myself",
+      "topic": "daily_reflection",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-02T02:14:30.541073",
+      "content": "Today I had a conversation and it made me feel happy. I need to work on this",
+      "topic": "sleep_issues",
+      "mood": 7,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-06-03T02:14:30.541073",
+      "content": "The pressure at work is manageable. Reaching out for support",
+      "topic": "work_stress",
+      "mood": 10,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-04T02:14:30.541073",
+      "content": "Feeling peaceful about {work_situation}. Taking breaks when needed",
+      "topic": "work_stress",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-05T02:14:30.541073",
+      "content": "My relationship with my colleague is complicated. I am working through it",
+      "topic": "relationships",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-06T02:14:30.541073",
+      "content": "Having an anxiety episode. My heart is racing I went for a walk",
+      "topic": "anxiety_episode",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-07T02:14:30.541073",
+      "content": "Feeling thankful for loving relationships. It reminded me of what matters",
+      "topic": "gratitude",
+      "mood": 10,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-08T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. This helps me understand myself better",
+      "topic": "therapy_session",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-09T02:14:30.541073",
+      "content": "This day was enlightening. Learning to cope better",
+      "topic": "family_time",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-10T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel frustrated. It reminded me of what matters",
+      "topic": "medication_side_effects",
+      "mood": 2,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-06-11T02:14:30.541073",
+      "content": "This day was enlightening. Learning to cope better",
+      "topic": "daily_reflection",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-12T02:14:30.541073",
+      "content": "Feeling anxious about conflict. Taking deep breaths",
+      "topic": "anxiety_episode",
+      "mood": 8,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-06-13T02:14:30.541073",
+      "content": "Today I'm grateful for my health. I am blessed to have this",
+      "topic": "gratitude",
+      "mood": 4,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-06-14T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. There is hope in this",
+      "topic": "social_interaction",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-15T02:14:30.541073",
+      "content": "Feeling anxious about social situations. Reaching out for support",
+      "topic": "anxiety_episode",
+      "mood": 4,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-06-16T02:14:30.541073",
+      "content": "This day was tough. I am working through it",
+      "topic": "therapy_session",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-17T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel frustrated. I learned something about myself",
+      "topic": "sleep_issues",
+      "mood": 8,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-06-18T02:14:30.541073",
+      "content": "This day was meaningful. Learning to cope better",
+      "topic": "self_care",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-19T02:14:30.541073",
+      "content": "My relationship with my colleague is complicated. Taking it one step at a time",
+      "topic": "relationships",
+      "mood": 8,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-20T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. I am growing through this",
+      "topic": "sleep_issues",
+      "mood": 10,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-21T02:14:30.541073",
+      "content": "My anxiety is intense today. I am being gentle with myself",
+      "topic": "anxiety_episode",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-22T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. There is hope in this",
+      "topic": "self_care",
+      "mood": 8,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-23T02:14:30.541073",
+      "content": "Today I went for a walk and it made me feel peaceful. I need to work on this",
+      "topic": "sleep_issues",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-24T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. There is hope in this",
+      "topic": "health_concerns",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-25T02:14:30.541073",
+      "content": "Today I'm grateful for a small kindness. This gives me hope",
+      "topic": "gratitude",
+      "mood": 5,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-06-26T02:14:30.541073",
+      "content": "Feeling thankful for good health. I learned something about myself",
+      "topic": "gratitude",
+      "mood": 2,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-06-27T02:14:30.541073",
+      "content": "This day was difficult. Taking it one step at a time",
+      "topic": "hobby_activity",
+      "mood": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-28T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. There is hope in this",
+      "topic": "hobby_activity",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-06-29T02:14:30.541073",
+      "content": "Today I went for a walk and it made me feel anxious. I need to work on this",
+      "topic": "future_plans",
+      "mood": 6,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-06-30T02:14:30.541073",
+      "content": "Having an anxiety episode. I feel on edge I went for a walk",
+      "topic": "anxiety_episode",
+      "mood": 10,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-01T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. There is hope in this",
+      "topic": "hobby_activity",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-02T02:14:30.541073",
+      "content": "Feeling thankful for loving relationships. It reminded me of what matters",
+      "topic": "gratitude",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-03T02:14:30.541073",
+      "content": "This day was tough. Taking it one step at a time",
+      "topic": "sleep_issues",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-04T02:14:30.541073",
+      "content": "Had a challenging conversation with my partner. It brought us closer",
+      "topic": "relationships",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-05T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. I am growing through this",
+      "topic": "self_care",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-06T02:14:30.541073",
+      "content": "Grateful for {positive_thing} in my life. This means everything",
+      "topic": "gratitude",
+      "mood": 5,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-07-07T02:14:30.541073",
+      "content": "Feeling sad about a celebration. I need to communicate better",
+      "topic": "relationships",
+      "mood": 3,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-08T02:14:30.541073",
+      "content": "Today I completed a task and it made me feel peaceful. I learned something about myself",
+      "topic": "self_care",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-09T02:14:30.541073",
+      "content": "Feeling thankful for good health. I need to work on this",
+      "topic": "gratitude",
+      "mood": 2,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-07-10T02:14:30.541073",
+      "content": "Depression is manageable today. I am eating regularly",
+      "topic": "depression_episode",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-11T02:14:30.541073",
+      "content": "Feeling thankful for a roof over my head. It reminded me of what matters",
+      "topic": "gratitude",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-12T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. There is hope in this",
+      "topic": "health_concerns",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-13T02:14:30.541073",
+      "content": "This day was tough. I am working through it",
+      "topic": "self_care",
+      "mood": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-14T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. This helps me understand myself better",
+      "topic": "self_care",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-15T02:14:30.541073",
+      "content": "Feeling anxious about conflict. Taking deep breaths",
+      "topic": "anxiety_episode",
+      "mood": 1,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-16T02:14:30.541073",
+      "content": "Today I had a conversation and it made me feel frustrated. I learned something about myself",
+      "topic": "therapy_session",
+      "mood": 8,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-17T02:14:30.541073",
+      "content": "Feeling anxious about uncertainty. Reaching out for support",
+      "topic": "anxiety_episode",
+      "mood": 4,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-18T02:14:30.541073",
+      "content": "This day was meaningful. I am working through it",
+      "topic": "self_care",
+      "mood": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-19T02:14:30.541073",
+      "content": "Feeling peaceful about {work_situation}. Taking breaks when needed",
+      "topic": "work_stress",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-20T02:14:30.541073",
+      "content": "Work has been difficult lately. My boss is being difficult",
+      "topic": "work_stress",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-21T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. This helps me understand myself better",
+      "topic": "medication_side_effects",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-22T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. This helps me understand myself better",
+      "topic": "future_plans",
+      "mood": 8,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-23T02:14:30.541073",
+      "content": "Today I had a conversation and it made me feel peaceful. It reminded me of what matters",
+      "topic": "therapy_session",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-24T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. This helps me understand myself better",
+      "topic": "health_concerns",
+      "mood": 8,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-25T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel peaceful. I need to work on this",
+      "topic": "family_time",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-26T02:14:30.541073",
+      "content": "Feeling anxious and {emotion2}. I am reaching out for help",
+      "topic": "depression_episode",
+      "mood": 7,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-27T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel grateful. I need to work on this",
+      "topic": "health_concerns",
+      "mood": 5,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-07-28T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel happy. It reminded me of what matters",
+      "topic": "future_plans",
+      "mood": 9,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-07-29T02:14:30.541073",
+      "content": "Having an anxiety episode. I cannot stop worrying I called a friend",
+      "topic": "anxiety_episode",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-07-30T02:14:30.541073",
+      "content": "Feeling sad and {emotion2}. I am taking it one day at a time",
+      "topic": "depression_episode",
+      "mood": 10,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-07-31T02:14:30.541073",
+      "content": "Grateful for {positive_thing} in my life. This means everything",
+      "topic": "gratitude",
+      "mood": 2,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-08-01T02:14:30.541073",
+      "content": "Feeling anxious about social situations. Reaching out for support",
+      "topic": "anxiety_episode",
+      "mood": 6,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-02T02:14:30.541073",
+      "content": "Today I had a conversation and it made me feel sad. I need to work on this",
+      "topic": "self_care",
+      "mood": 3,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-03T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. This helps me understand myself better",
+      "topic": "sleep_issues",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-04T02:14:30.541073",
+      "content": "Feeling happy and {emotion2}. I am trying to be kind to myself",
+      "topic": "depression_episode",
+      "mood": 5,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-08-05T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel happy. I learned something about myself",
+      "topic": "therapy_session",
+      "mood": 9,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-08-06T02:14:30.541073",
+      "content": "Reflecting on today, I saw things differently. This helps me understand myself better",
+      "topic": "health_concerns",
+      "mood": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-07T02:14:30.541073",
+      "content": "This day was rewarding. Taking it one step at a time",
+      "topic": "health_concerns",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-08T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel sad. It reminded me of what matters",
+      "topic": "daily_reflection",
+      "mood": 1,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-09T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. There is hope in this",
+      "topic": "sleep_issues",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-10T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. I am growing through this",
+      "topic": "health_concerns",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-11T02:14:30.541073",
+      "content": "This day was rewarding. Taking it one step at a time",
+      "topic": "therapy_session",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-12T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. I am growing through this",
+      "topic": "health_concerns",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-13T02:14:30.541073",
+      "content": "Today I went for a walk and it made me feel happy. It reminded me of what matters",
+      "topic": "therapy_session",
+      "mood": 6,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-08-14T02:14:30.541073",
+      "content": "This day was tough. I am working through it",
+      "topic": "hobby_activity",
+      "mood": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-15T02:14:30.541073",
+      "content": "Depression is intense today. I am getting some fresh air",
+      "topic": "depression_episode",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-16T02:14:30.541073",
+      "content": "Depression is moderate today. I am trying to rest",
+      "topic": "depression_episode",
+      "mood": 10,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-17T02:14:30.541073",
+      "content": "This day was enlightening. Taking it one step at a time",
+      "topic": "therapy_session",
+      "mood": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-18T02:14:30.541073",
+      "content": "Today I completed a task and it made me feel sad. It reminded me of what matters",
+      "topic": "hobby_activity",
+      "mood": 5,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-19T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. I am growing through this",
+      "topic": "hobby_activity",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-20T02:14:30.541073",
+      "content": "Today I completed a task and it made me feel frustrated. I need to work on this",
+      "topic": "family_time",
+      "mood": 2,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-21T02:14:30.541073",
+      "content": "This day was enlightening. Learning to cope better",
+      "topic": "health_concerns",
+      "mood": 6,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-22T02:14:30.541073",
+      "content": "This day was difficult. I am working through it",
+      "topic": "sleep_issues",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-23T02:14:30.541073",
+      "content": "Today I went for a walk and it made me feel frustrated. I learned something about myself",
+      "topic": "family_time",
+      "mood": 7,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-08-24T02:14:30.541073",
+      "content": "Having an anxiety episode. My heart is racing I called a friend",
+      "topic": "anxiety_episode",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-25T02:14:30.541073",
+      "content": "Reflecting on today, I noticed some patterns. There is hope in this",
+      "topic": "therapy_session",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-26T02:14:30.541073",
+      "content": "Reflecting on today, I felt more aware. I am growing through this",
+      "topic": "sleep_issues",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-27T02:14:30.541073",
+      "content": "This day was enlightening. Taking it one step at a time",
+      "topic": "hobby_activity",
+      "mood": 9,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-28T02:14:30.541073",
+      "content": "Depression is moderate today. I am getting some fresh air",
+      "topic": "depression_episode",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-29T02:14:30.541073",
+      "content": "Today I went for a walk and it made me feel peaceful. I learned something about myself",
+      "topic": "future_plans",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-08-30T02:14:30.541073",
+      "content": "Grateful for {positive_thing} in my life. I do not take this for granted",
+      "topic": "gratitude",
+      "mood": 2,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-08-31T02:14:30.541073",
+      "content": "This day was difficult. Learning to cope better",
+      "topic": "self_care",
+      "mood": 1,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-09-01T02:14:30.541073",
+      "content": "Feeling grateful about a celebration. I am not sure what to do",
+      "topic": "relationships",
+      "mood": 9,
+      "sentiment": "positive"
+    },
+    {
+      "date": "2025-09-02T02:14:30.541073",
+      "content": "Today I tried something new and it made me feel frustrated. I need to work on this",
+      "topic": "self_care",
+      "mood": 3,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-09-03T02:14:30.541073",
+      "content": "This day was tough. I am working through it",
+      "topic": "therapy_session",
+      "mood": 7,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-09-04T02:14:30.541073",
+      "content": "This day was tough. Taking it one step at a time",
+      "topic": "hobby_activity",
+      "mood": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-09-05T02:14:30.541073",
+      "content": "Today I completed a task and it made me feel peaceful. I learned something about myself",
+      "topic": "family_time",
+      "mood": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "date": "2025-09-06T02:14:30.541073",
+      "content": "Today I had a conversation and it made me feel anxious. It reminded me of what matters",
+      "topic": "future_plans",
+      "mood": 2,
+      "sentiment": "negative"
+    },
+    {
+      "date": "2025-09-07T02:14:30.541073",
+      "content": "Feeling frustrated and {emotion2}. I am reaching out for help",
+      "topic": "depression_episode",
+      "mood": 7,
+      "sentiment": "negative"
+    }
+  ],
+  "generated_at": "2025-09-08T02:14:30.548722",
+  "total_entries": 300
+}
