@@ -41,7 +41,7 @@ export interface PatternAnalysis {
   }
 }
 
-class MLService {
+export class MLService {
   private async makeRequest<T>(endpoint: string, data?: any): Promise<T> {
     try {
       const response = await fetch(`${ML_API_URL}${endpoint}`, {
