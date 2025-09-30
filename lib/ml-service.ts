@@ -3,7 +3,7 @@
  * Handles communication with the ML backend
  */
 
-const ML_API_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'http://localhost:5000/api'
+const ML_API_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'https://your-ml-backend.railway.app/api'
 
 export interface SentimentAnalysis {
   sentiment: 'positive' | 'negative' | 'neutral'

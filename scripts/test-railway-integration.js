@@ -8,7 +8,7 @@ const https = require('https');
 const http = require('http');
 
 // Get ML API URL from environment or use default
-const ML_API_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'http://localhost:5000/api';
+const ML_API_URL = process.env.NEXT_PUBLIC_ML_API_URL || 'https://your-ml-backend.railway.app/api';
 
 console.log('🧪 Testing ML Backend Connection...');
 console.log(`📍 ML API URL: ${ML_API_URL}`);

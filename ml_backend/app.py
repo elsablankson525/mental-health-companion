@@ -339,7 +339,7 @@ def internal_error(error):
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', 5000))
-    debug = os.environ.get('NODE_ENV', 'development') == 'development'
+    debug = os.environ.get('FLASK_DEBUG', 'False').lower() == 'true'
     
     logger.info(f"Starting ML Backend on port {port}")
     logger.info("Available endpoints:")

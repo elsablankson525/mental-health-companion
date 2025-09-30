@@ -12,7 +12,7 @@ class DatabaseService:
     def connect(self):
         """Connect to PostgreSQL database"""
         try:
-            database_url = os.getenv('DATABASE_URL', 'postgresql://postgres:password@localhost:5432/mental_health_companion')
+            database_url = os.getenv('DATABASE_URL', 'postgresql://username:password@ep-xxxxx.us-east-1.aws.neon.tech/neondb?sslmode=require')
             self.connection = psycopg2.connect(database_url)
             print("✅ Connected to PostgreSQL database")
         except Exception as e:
