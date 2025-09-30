@@ -12,7 +12,7 @@ console.log('🚀 Testing Railway ML Backend Deployment');
 console.log('=======================================\n');
 
 // Replace with your actual Railway URL
-const RAILWAY_URL = process.env.RAILWAY_URL || 'https://your-ml-backend-production.up.railway.app';
+const RAILWAY_URL = process.env.RAILWAY_URL || 'https://tranquil-energy-production.up.railway.app';
 
 async function testEndpoint(endpoint, description) {
   return new Promise((resolve) => {
