@@ -69,7 +69,7 @@ export default function InsightsDashboard() {
 
     setIsAnalyzing(true)
     try {
-      const analysis = await mlService.analyzePatterns(moodEntries, journalEntries)
+      const analysis = await mlService.analyzePatterns({ mood_entries: moodEntries })
       setPatternAnalysis(analysis)
     } catch (error) {
       console.error('Pattern analysis failed:', error)
@@ -246,19 +246,18 @@ export default function InsightsDashboard() {
                   <span className="text-sm font-medium">Trend Direction:</span>
                   <Badge 
                     variant={
-                      patternAnalysis.patterns?.trend_direction === 'improving' ? 'default' :
-                      patternAnalysis.patterns?.trend_direction === 'declining' ? 'destructive' :
+                      patternAnalysis.patterns?.mood_trend === 'improving' ? 'default' :
+                      patternAnalysis.patterns?.mood_trend === 'declining' ? 'destructive' :
                       'secondary'
                     }
                   >
-                    {patternAnalysis.patterns?.trend_direction}
+                    {patternAnalysis.patterns?.mood_trend}
                   </Badge>
                 </div>
                 <div className="flex justify-between items-center">
-                  <span className="text-sm font-medium">Weekend vs Weekday:</span>
+                  <span className="text-sm font-medium">Average Mood:</span>
                   <span className="text-sm">
-                    Weekend: {patternAnalysis.patterns?.weekend_vs_weekday.weekend_avg || 'N/A'} | 
-                    Weekday: {patternAnalysis.patterns?.weekend_vs_weekday.weekday_avg || 'N/A'}
+                    {patternAnalysis.patterns?.average_mood || 'N/A'} / 10
                   </span>
                 </div>
                 <div className="flex justify-between items-center">
@@ -276,16 +275,26 @@ export default function InsightsDashboard() {
               <CardTitle>Top Emotions</CardTitle>
             </CardHeader>
             <CardContent>
-              {patternAnalysis.patterns?.emotion_frequency && Object.keys(patternAnalysis.patterns.emotion_frequency).length > 0 ? (
+              {moodEntries.length > 0 ? (
                 <div className="space-y-2">
-                  {Object.entries(patternAnalysis.patterns.emotion_frequency)
-                    .slice(0, 5)
-                    .map(([emotion, count]) => (
-                      <div key={emotion} className="flex justify-between items-center">
-                        <span className="text-sm">{emotion}</span>
-                        <Badge variant="outline">{count}</Badge>
-                      </div>
-                    ))}
+                  {(() => {
+                    const emotionCounts = moodEntries
+                      .flatMap(entry => entry.emotions)
+                      .reduce((acc, emotion) => {
+                        acc[emotion] = (acc[emotion] || 0) + 1;
+                        return acc;
+                      }, {} as Record<string, number>);
+                    
+                    return Object.entries(emotionCounts)
+                      .sort(([,a], [,b]) => b - a)
+                      .slice(0, 5)
+                      .map(([emotion, count]) => (
+                        <div key={emotion} className="flex justify-between items-center">
+                          <span className="text-sm">{emotion}</span>
+                          <Badge variant="outline">{count}</Badge>
+                        </div>
+                      ));
+                  })()}
                 </div>
               ) : (
                 <p className="text-muted-foreground text-sm">No emotion data available</p>

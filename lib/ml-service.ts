@@ -42,14 +42,14 @@ export interface PatternAnalysis {
 }
 
 export class MLService {
-  private async makeRequest<T>(endpoint: string, data?: any): Promise<T> {
+  async makeRequest<T>(endpoint: string, data?: any): Promise<T> {
     try {
       const response = await fetch(`${ML_API_URL}${endpoint}`, {
         method: data ? 'POST' : 'GET',
         headers: {
           'Content-Type': 'application/json',
         },
-        body: data ? JSON.stringify(data) : undefined,
+        body: data ? JSON.stringify(data) : null,
       })
 
       if (!response.ok) {

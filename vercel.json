@@ -4,5 +4,20 @@
   "regions": ["iad1"],
   "env": {
     "NODE_ENV": "production"
+  },
+  "build": {
+    "env": {
+      "DATABASE_URL": "@database_url",
+      "NEXTAUTH_SECRET": "@nextauth_secret",
+      "NEXTAUTH_URL": "@nextauth_url",
+      "ENCRYPTION_KEY": "@encryption_key",
+      "JWT_SECRET": "@jwt_secret",
+      "NEXT_PUBLIC_ML_API_URL": "@ml_api_url"
+    }
+  },
+  "functions": {
+    "app/api/**/*.ts": {
+      "maxDuration": 30
+    }
   }
 }

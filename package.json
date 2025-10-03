@@ -21,9 +21,12 @@
     "deploy:setup": "node scripts/deploy-setup.js",
     "deploy:vercel": "vercel --prod",
     "deploy:ml": "cd ml_backend && python app.py",
+    "deploy:prepare": "node scripts/deploy-vercel.js",
+    "secrets:generate": "node scripts/generate-production-secrets.js",
     "test:ml": "curl -f http://localhost:5000/api/health",
     "test:deployment": "node scripts/test-deployment.js",
     "test:railway": "node scripts/test-railway-integration.js",
+    "test:vercel": "node scripts/test-vercel-deployment.js",
     "test:all": "npm run test:ml && npm run test:deployment && npm run build",
     "migrate:production": "node scripts/migrate-to-production.js",
     "test:production": "node scripts/test-production-connections.js"
