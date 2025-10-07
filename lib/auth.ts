@@ -1,11 +1,11 @@
 import { NextAuthOptions } from "next-auth"
 import { PrismaAdapter } from "@auth/prisma-adapter"
 import CredentialsProvider from "next-auth/providers/credentials"
-import { PrismaClient } from "@prisma/client"
+import { prisma } from "./db"
 import bcrypt from "bcryptjs"
 import { headers } from "next/headers"
 
-const prisma = new PrismaClient()
+// Use shared Prisma client to avoid multiple connections and reuse pooling
 
 // Rate limiting for login attempts
 const loginAttempts = new Map<string, { count: number; resetTime: number }>()
